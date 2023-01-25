@@ -32,5 +32,5 @@ cd >DjangoREST
 <code>Python manage.py runserver</code>
 
 
-<img src="interface.png">
+<img src="./interface.png">
 
